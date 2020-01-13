@@ -1,0 +1,28 @@
+body {
+	background-color: #1e392a;
+}
+
+h1 {
+	font-family: Courier, Georgia, Serif;
+	font-weight: normal;
+	color: #3cc47c;
+	margin: 10 auto;
+	text-align: center;
+}
+
+h2 {
+	font-family: courier;
+	color: #828081;
+	text-align: center;
+	font-weight: thin;
+}
+
+#buttons {
+	text-align: center;
+}
+
+#game > p {
+	font-family: courier;
+	color: #e9c893;
+	text-align: center;
+}
